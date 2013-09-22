@@ -9,7 +9,7 @@ public class Main {
 		cfg.title = "Kybos";
 		cfg.useGL20 = false;
 		cfg.width = 800;
-		cfg.height = 480;
+		cfg.height = 480;//aleksya was here
 		
 		new LwjglApplication(new MyGdxGame(), cfg);
 	}
